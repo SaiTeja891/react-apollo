@@ -1,0 +1,16 @@
+.listings-skelton .ant-divider-horizontal {
+  margin: 12px 0;
+}
+
+.listings-skelton
+  .ant-skeleton-content
+  .ant-skeleton-title
+  + .ant-skeleton-paragraph {
+  margin: 12px 0;
+}
+
+.listings-skelton .listing-skelton__alert {
+  margin-bottom: 20px;
+}
+
+/* ant-alert ant-alert-error ant-alert-no-icon listing-skelton__alert */
